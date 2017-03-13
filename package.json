@@ -1,0 +1,19 @@
+{
+  "name": "rx-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rx": "^4.1.0",
+    "rxjs": "^5.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
